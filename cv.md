@@ -1,5 +1,4 @@
 # Nikita Korneyev
-****
 ## Contacts
 * Location: Minsk, Belarus;
 * Phone: +375(29)371-47-48;
